@@ -1,0 +1,25 @@
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\bin\Debug\1stSemiProject.exe.config
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\bin\Debug\1stSemiProject.exe
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\bin\Debug\1stSemiProject.pdb
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\obj\Debug\1stSemiProject.csproj.AssemblyReference.cache
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\obj\Debug\_1stSemiProject.mainfrm.resources
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\obj\Debug\_1stSemiProject.Properties.Resources.resources
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\obj\Debug\1stSemiProject.csproj.GenerateResource.cache
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\obj\Debug\1stSemiProject.csproj.CoreCompileInputs.cache
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\obj\Debug\1stSemiProject.exe
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\obj\Debug\1stSemiProject.pdb
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\obj\Debug\_1stSemiProject.printfrm.resources
+C:\Users\Kasthoori\Documents\my visual studio practies\1stSemiProject\1stSemiProject\obj\Debug\_1stSemiProject.loginfrm.resources
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\bin\Debug\1stSemiProject.exe.config
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\bin\Debug\1stSemiProject.exe
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\bin\Debug\1stSemiProject.pdb
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\obj\Debug\1stSemiProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\obj\Debug\1stSemiProject.exe.config
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\obj\Debug\_1stSemiProject.loginfrm.resources
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\obj\Debug\_1stSemiProject.mainfrm.resources
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\obj\Debug\_1stSemiProject.printfrm.resources
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\obj\Debug\_1stSemiProject.Properties.Resources.resources
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\obj\Debug\1stSemiProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\obj\Debug\1stSemiProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\obj\Debug\1stSemiProject.exe
+C:\Users\User\Desktop\garisir\053_k.kasthoori\New folder\1stSemiProject\obj\Debug\1stSemiProject.pdb
